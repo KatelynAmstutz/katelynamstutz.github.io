@@ -1,7 +1,7 @@
 ---
 title: "MOLGEN 5608 Genes and Development"
 collection: teaching
-type: "Undergraduate recitation"
+type: "Undergraduate recitation teaching assistant"
 permalink: /teaching/2021-spring-teaching
 venue: "The Ohio State University, Department of Molecular Genetics"
 date: 2021-01-01
