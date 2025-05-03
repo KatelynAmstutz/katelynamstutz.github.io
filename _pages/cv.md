@@ -11,43 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Molecular, Cellular, and Developmental Biology, The Ohio State University, 2019-Current
+* B.A. in Biology, Bluffton University, 2019
 
-Work experience
+Research and Training
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Assistant, The Ohio State University
+  * P.I.: Dr. Iris Meier, Department of Molecular Genetics
+  * The role of KASH proteins in stomatal closure, 2019-Current
+* Graduate Teaching Assistant, The Ohio State University
+  *  Molecular Genetics 3300, Introduction to Plant Biology Spring 2022 and Spring 2025
+  *   
+* Departmental Honors, Bluffton University
+  * P.I.: Dr. Angela Montel, Department of Biology
+  * Digitizing and Analyzing an Herbarium, 2018-2019
+* Summer Research Intern,Ohio Agricultural Research and Development Center, The Ohio State University
+  * P.I.: Dr. Daral Jackwood, Center for Food Animal Health
+  * Understanding the evolution of the Infectious Bursal Disease Virus in Ohio, 2017
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Arabidopsis and _Nicotiana benthamiana_ plant care
+* Data analysis in R
+* _Agrobacterium_ transformation into plants
+* Molecular Biology techniques
+  * PCR
+  * Western Blots
+  * Cloning
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +59,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2024-present, UltraSound Acapella Choir Officer
+  * Coordinated and arranged music
+* 2023-present, Ray Travel Award Judge
+  * Judged applications for grants up to $1000 each for conference travel
+* 2024-present, Council of Graduate Students Delegate
+  * Attended delegate meetings once a month
+  * Served as a member of the Sustainability and Environmental Responsibility Committee
+* 2025-present, Council of Graduate Students Sustainability and Environmental Responsibility Committee Co-Chair
+  * Attended delegate meetings once a month
+  * Coordinated committee meetings and events
+    
