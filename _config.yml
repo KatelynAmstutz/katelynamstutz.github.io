@@ -22,7 +22,7 @@ repository               : "KatelynAmstutz/katelynamstutz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "Profile_pic.png"
   name             : "Katelyn Amstutz"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in the Iris Meier laboratory"
