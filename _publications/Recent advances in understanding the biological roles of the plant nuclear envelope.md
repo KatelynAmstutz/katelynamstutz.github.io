@@ -7,7 +7,7 @@ excerpt:
 date: 2020-12-11
 venue: 'Nucleus'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'http://academicpages.github.io/files/Recent advances in understanding the biological roles of the plant nuclear envelope.pdf'
+bibtexurl: 'http://academicpages.github.io/files/Recent advances in understanding the biological roles of the plant nuclear envelope.bib'
 citation: 'Groves, N. R., Biel, A., Moser, M., Mendes, I. N., Amstutz, K., & Meier, I. (2020). Recent advances in understanding the biological roles of the plant nuclear envelope. Nucleus, 11(1), 330–346. https://doi-org/10.1080/19491034.2020.1846836'
 ---
