@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "MOLGEN 4500 General Genetics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course TA"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
