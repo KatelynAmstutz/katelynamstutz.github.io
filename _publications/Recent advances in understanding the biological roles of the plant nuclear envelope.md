@@ -2,7 +2,7 @@
 title: "Recent advances in understanding the biological roles of the plant nuclear envelope"
 collection: publications
 category: manuscripts
-permalink: /publications/Recent advances in understanding the biological roles of the plant nuclear envelope.md
+permalink: /publications/Recent advances in understanding the biological roles of the plant nuclear envelope
 excerpt: 
 date: 2020-12-11
 venue: 'Nucleus'
