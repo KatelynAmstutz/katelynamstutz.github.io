@@ -19,9 +19,6 @@ Research and Training
 * Graduate Research Assistant, The Ohio State University
   * P.I.: Dr. Iris Meier, Department of Molecular Genetics
   * The role of KASH proteins in stomatal closure, 2019-Current
-* Graduate Teaching Assistant, The Ohio State University
-  *  Molecular Genetics 3300, Introduction to Plant Biology Spring 2022 and Spring 2025
-  *   
 * Departmental Honors, Bluffton University
   * P.I.: Dr. Angela Montel, Department of Biology
   * Digitizing and Analyzing an Herbarium, 2018-2019
