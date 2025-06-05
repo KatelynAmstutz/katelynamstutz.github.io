@@ -2,7 +2,7 @@
 title: "Nuclear Entanglement: New Insights Into the Role of Cytoskeleton and Nucleoskeleton in Plant Nuclear Function"
 collection: publications
 category: manuscripts
-permalink: /publication/Nuclear Entanglement: New Insights Into the Role of Cytoskeleton and Nucleoskeleton in Plant Nuclear Function
+permalink: /publication/Nuclear Entanglement
 excerpt: 
 date: 2025-06-05
 venue: 'Cytoskeleton'
