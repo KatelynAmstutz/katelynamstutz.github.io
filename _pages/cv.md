@@ -56,14 +56,16 @@ Teaching
   
 Service and leadership
 ======
+* 2025-present, Council of Graduate Students Sustainability and Environmental Responsibility Committee Co-Chair
+  * Attended delegate meetings once a month
+  * Coordinated committee meetings and events
+* 2024-present, Council of Graduate Students Delegate
+  * Attended delegate meetings once a month
+  * Served as a member of the Sustainability and Environmental Responsibility Committee
 * 2024-present, UltraSound Acapella Choir Officer
   * Coordinated and arranged music
 * 2023-present, Ray Travel Award Judge
   * Judged applications for grants up to $1000 each for conference travel
-* 2024-present, Council of Graduate Students Delegate
-  * Attended delegate meetings once a month
-  * Served as a member of the Sustainability and Environmental Responsibility Committee
-* 2025-present, Council of Graduate Students Sustainability and Environmental Responsibility Committee Co-Chair
-  * Attended delegate meetings once a month
-  * Coordinated committee meetings and events
+
+
     
